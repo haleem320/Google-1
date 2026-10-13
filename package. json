@@ -1,0 +1,12 @@
+{
+  "name": "mexc-futures-combo-bot",
+  "version": "1.0.0",
+  "description": "MEXC Futures Bot with EMA, MACD, and ATR on Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
